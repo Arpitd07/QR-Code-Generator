@@ -56,6 +56,8 @@ This will run the project at **`http://localhost:3000`**.
 ## **⚙️ Folder Structure**
 ```
 📂 qr-code-generator
+ ┣📂 public
+   ┗ 📜 index.html
  ┣ 📂 src
  ┃ ┣ 📂 components
  ┃ ┃ ┗ 📜 QRCodeCard.jsx
